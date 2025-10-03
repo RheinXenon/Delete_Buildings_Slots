@@ -219,7 +219,8 @@ buildings = {
 			modifiers = { 
 				Academy_of_Sciences_gc = 1
 				research_speed_factor_gc = 0.03
-				Research_points_gc = 0.02
+				special_project_speed_factor_gc = 0.03
+				# Research_points_gc = 0.02
 				production_cost_nuclear_facility_factor = -0.01
 			}
 		}

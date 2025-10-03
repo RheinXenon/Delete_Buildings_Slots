@@ -48,8 +48,11 @@ production_cost_air_facility_factor: "§Y$air_facility$§!建造花费"
 modifier_state_production_speed_naval_facility_factor: "省份§Y$naval_facility$§!建造速度加成"
 production_cost_naval_facility_factor: "§Y$naval_facility$§!建造花费"
 
-modifier_Research_points_gc: "§Y每周特殊项目突破进度§!§G（随机）§!"
-Research_points_gc: "§Y每周特殊项目突破进度§!§G（随机）§!"
+ modifier_Research_points_gc: "§Y每周特殊项目突破进度§!§G（随机）§!"
+ Research_points_gc: "§Y每周特殊项目突破进度§!§G（随机）§!"
+
+ modifier_special_project_speed_factor_gc: "§Y特殊项目研究速度§!"
+ special_project_speed_factor_gc: "§Y特殊项目研究速度§!"
 
 army_school_desc:0 "此建筑每级可为所属国家每日提供 §Y0.05§! £army_experience 陆军增长及§Y10§! £command_power 指挥点数上限,\n另外，可为所属§Y国家§!\n减少§G1%§!$production_cost_land_facility_factor$\n同时可为所属§Y省份§!\n增加§G25%§! £construction_speed_icon$modifier_state_production_speed_land_facility_factor$"
 
@@ -57,7 +60,7 @@ naval_school_desc:0 "此建筑每级可为所属国家每日提供 §Y0.05§! £
 
 air_school_desc:0 "此建筑每级可为所属国家每日提供 §Y0.05§! £air_experience 空军增长及§Y10§! £command_power 指挥点数上限\n另外，可为所属§Y国家§!\n减少§G1%§!$production_cost_air_facility_factor$\n同时可为所属§Y省份§!\n增加§G25%§! £construction_speed_icon$modifier_state_production_speed_air_facility_factor$"
 
-Academy_of_Sciences_desc:0 "此建筑每级可为所属国家提供 §Y3%§!£research_icon 科研速度加成\n另外，可为所属§Y国家§!\n减少§G1%§!$production_cost_nuclear_facility_factor$\n同时可为所属§Y省份§!\n增加§G25%§! £construction_speed_icon$modifier_state_production_speed_nuclear_facility_factor$"
+Academy_of_Sciences_desc:0 "此建筑每级可为所属国家提供 §Y3%§!£research_icon 科研速度加成和 §Y3%§!特殊项目研究速度加成\n另外，可为所属§Y国家§!\n减少§G1%§!$production_cost_nuclear_facility_factor$\n同时可为所属§Y省份§!\n增加§G25%§! £construction_speed_icon$modifier_state_production_speed_nuclear_facility_factor$"
 
 Government_agency_desc:0 "此建筑每级可为所属国家每日提供 §Y0.02§! £pol_power_icon 政治点数增长，以及§Y1%§!政治顾问花费减少"
 architectural_institute_desc:0 "此建筑每级可为所属国家提供§Y1%§!£construction_speed_icon 建造速度加成,\n同时为所属地区提供 §Y15%§! £construction_speed_icon 建造速度加成"

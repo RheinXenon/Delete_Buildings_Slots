@@ -24,6 +24,7 @@ Government_agency = {
 
 Academy_of_Sciences = {
 	research_speed_factor = modifier@research_speed_factor_gc
+	special_project_speed_factor = modifier@special_project_speed_factor_gc
 }
 #wasteland: "荒漠"
 #city: "城镇地区"
