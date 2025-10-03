@@ -283,6 +283,7 @@ buildings = {
 		country_modifiers = {
 			modifiers = { 
 				production_speed_buildings_factor_gc = 0.01
+				production_factory_efficiency_gain_factor_gc = 0.02
 			}
 		}
 		construction_speed_factor = {

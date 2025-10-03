@@ -97,3 +97,9 @@ Academy_of_Sciences_gc = {
 	value_type = number
 	precision = 3
 }
+
+production_factory_efficiency_gain_factor_gc = {
+	color_type = good
+	value_type = number
+	precision = 2
+}

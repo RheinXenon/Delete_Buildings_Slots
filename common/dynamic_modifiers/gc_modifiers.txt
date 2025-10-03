@@ -14,6 +14,7 @@ air_school = {
 
 architectural_institute = {
 	production_speed_buildings_factor = modifier@production_speed_buildings_factor_gc
+	production_factory_efficiency_gain_factor = modifier@production_factory_efficiency_gain_factor_gc
 }
 
 Government_agency = {
